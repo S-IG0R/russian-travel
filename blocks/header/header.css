@@ -1,7 +1,8 @@
 .header {
+  display: flex;
   max-width: 1184px;
   min-height: 42px;
-  margin: 0 auto;
+  margin: auto;
   padding: 0 16px;
-  background-color: aqua;
+  justify-content: space-between;
 }
