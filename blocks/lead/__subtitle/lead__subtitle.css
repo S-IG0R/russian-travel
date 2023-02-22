@@ -10,3 +10,9 @@
   text-align: center;
   color: #fff;
 }
+
+@media screen and (max-width: 1024px){
+  .lead__subtitle  {
+   padding-bottom: 56px;
+  }
+}
