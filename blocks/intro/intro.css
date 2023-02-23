@@ -2,4 +2,21 @@
   display: flex;
   margin: 0 auto;
   max-width: 984px;
+  padding-top: 92px;
 }
+
+
+@media screen and (max-width: 1024px){
+  .intro {
+    max-width: 928px;
+    padding-top: 88px;
+  }
+}
+
+@media screen and (max-width: 768px){
+  .intro {
+    justify-content: center;
+    padding-top: 64px;
+  }
+}
+

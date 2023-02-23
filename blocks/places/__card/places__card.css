@@ -1,0 +1,6 @@
+.places__card {
+  display: grid;
+  grid-template-columns: fit-content(460px) 1fr;
+  grid-template-rows: repeat(2, min-content);
+  gap: 48px 40px;
+}
