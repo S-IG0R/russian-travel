@@ -8,3 +8,10 @@
   max-width: 460px;
   margin: 0;
 }
+
+@media (max-width: 768px) {
+  .places__title {
+    font-size: 32px;
+    line-height: 35px;
+  }
+}
