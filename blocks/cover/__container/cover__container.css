@@ -1,0 +1,9 @@
+.cover__container {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(320px ,1184px);
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  overflow: hidden;
+}
