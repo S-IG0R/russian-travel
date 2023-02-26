@@ -8,8 +8,8 @@
   padding: 0 0 6px 0;
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 768px){
   .header__lang-links {
-    padding: 0 0 8px 0;
+    padding-bottom: 8px;
   }
 }

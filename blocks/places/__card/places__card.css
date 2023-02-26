@@ -7,10 +7,10 @@
 
 
 
-@media (max-width: 1280px) {
+@media (max-width: 1279px) {
   .places__card {
     grid-template-columns: fit-content(440px) 1fr;
-    column-gap: 32px;
+    column-gap:32px;
   }
 
 }
