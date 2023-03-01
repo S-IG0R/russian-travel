@@ -4,7 +4,7 @@
   justify-content: end;
 }
 
-@media (max-width: 768px) {
+@media (max-width:767.98px) {
   .places__link-wrapper {
     padding-left: 16px;
     padding-right: 16px;
