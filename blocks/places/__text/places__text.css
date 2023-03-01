@@ -4,7 +4,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 163%;
+  line-height: 29px;
   color: #fff;
 }
 
@@ -12,6 +12,7 @@
   .places__text {
     font-size: 16px;
     margin-bottom: 25px;
+    line-height: 26px;
   }
 }
 
