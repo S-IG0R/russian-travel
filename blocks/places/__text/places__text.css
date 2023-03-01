@@ -3,20 +3,19 @@
   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
   font-style: normal;
   font-weight: 400;
-  text-align: left;
   font-size: 18px;
   line-height: 163%;
   color: #fff;
 }
 
-@media (max-width:1023.98px) {
+@media (max-width: 1023.98px) {
   .places__text {
     font-size: 16px;
     margin-bottom: 25px;
   }
 }
 
-@media (max-width:767.98px) {
+@media (max-width: 767.98px) {
   .places__text {
     padding-left: 16px;
     padding-right: 16px;

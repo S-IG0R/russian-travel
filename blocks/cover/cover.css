@@ -5,13 +5,13 @@
   justify-content: center;
 }
 
-@media (max-width:1023.98px) {
+@media (max-width: 1023.98px) {
   .cover {
-    padding-top: 90px;
+    padding-top: 89px;
   }
 }
 
-@media (max-width:767.98px) {
+@media (max-width: 767.98px) {
   .cover {
     padding-top: 66px;
   }

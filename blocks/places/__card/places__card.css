@@ -5,21 +5,21 @@
   gap: 48px 40px;
 }
 
-@media (max-width:1279.98px) {
+@media (max-width: 1279.98px) {
   .places__card {
     grid-template-columns: fit-content(440px) 1fr;
     column-gap:32px;
   }
 }
 
-@media (max-width:1023.98px) {
+@media (max-width: 1023.98px) {
   .places__card {
     grid-template-columns: fit-content(340px) 1fr;
     column-gap: 28px;
   }
 }
 
-@media (max-width:767.98px) {
+@media (max-width: 767.98px) {
   .places__card {
     grid-template-columns: 1fr;
     row-gap: 32px;
